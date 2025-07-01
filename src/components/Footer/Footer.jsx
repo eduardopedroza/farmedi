@@ -1,5 +1,5 @@
 import React from "react";
-import footerLogo from "../../assets/logo.jpeg";
+import footerLogo from "../../assets/farmedi.jpg";
 import Banner from "../../assets/wesbite/footer-pattern.jpg";
 import {
   FaFacebook,
@@ -46,7 +46,7 @@ const Footer = () => {
           <div className="py-8 px-4">
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
               <img src={footerLogo} alt="" className="max-w-[50px]" />
-              PharmaX
+              Farmedi
             </h1>
             <p>
               Tu salud es nuestra prioridad. Ofrecemos medicamentos y
